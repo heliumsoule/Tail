@@ -1,0 +1,6 @@
+framework module Pods_EyeTracker {
+  umbrella header "Pods-EyeTracker-umbrella.h"
+
+  export *
+  module * { export * }
+}
